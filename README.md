@@ -1,5 +1,5 @@
 # vue-weather
-
+video link: https://youtu.be/i0QyX8N6Ja4
 ## Project setup
 ```
 npm install
